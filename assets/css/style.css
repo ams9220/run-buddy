@@ -8,6 +8,8 @@
 .hero {
     background-image: url("../images/hero-bg.jpeg");
     height: 600px;
+    background-size: cover;
+    background-position: center;
 }
 /* Hero Style End */
 
