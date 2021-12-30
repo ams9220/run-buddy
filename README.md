@@ -21,4 +21,4 @@ The following was completed as part of a Coding Boot Camp through the University
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
