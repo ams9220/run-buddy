@@ -19,3 +19,6 @@ Made with ❤️ by Ana
 The following was completed as part of a Coding Boot Camp through the University of Miami.
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+# Run Buddy Inc.
