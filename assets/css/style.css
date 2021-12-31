@@ -13,7 +13,6 @@
     position: relative;
 }
 
-
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
@@ -68,6 +67,9 @@ body {
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 header h1 {
@@ -83,7 +85,6 @@ header a {
 }
 
 header nav {
-    float: right;
     margin: 7px 0;
 }
 
