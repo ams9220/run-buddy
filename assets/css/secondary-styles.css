@@ -1,8 +1,11 @@
+/* SECONDARY PAGE STYLES */
 .hero {
     background-position: bottom;
     height: auto;
     text-align: center;
     margin-bottom: 40px;
+    background-attachment: fixed;
+    background-position: 80%;
 }
 
 .page-title {
@@ -10,7 +13,7 @@
     display: inline-block;
     border-bottom: 4px solid #fce138;
     padding: 0 80px 15px 80px; 
-    font-weight: normal;
+    font-weight: 400;
     font-size: 42px;
     font-style: italic;
 }
@@ -33,7 +36,7 @@
 }
 
 .secondary-content ul {
-    margin: 15px 20px 15px 20px;
+    margin: 15px 20px;
 }
 
 .secondary-content li {
